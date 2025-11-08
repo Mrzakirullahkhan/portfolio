@@ -30,13 +30,13 @@ const portfolio = {
   skills: [
     { name: "React.js", level: 85 },
     { name: "Next.js", level: 80 },
-    { name: "JavaScript", level: 90 },
+    { name: "JavaScript", level: 70 },
     { name: "Tailwind CSS", level: 85 },
-    { name: "Node.js", level: 75 },
+    { name: "Node.js", level: 65 },
     { name: "Express.js", level: 70 },
-    { name: "MongoDB", level: 70 },
-    { name: "Firebase", level: 60 },
-    { name: "Git", level: 80 }
+    { name: "MongoDB", level: 80 },
+    { name: "Firebase", level: 90 },
+    { name: "Git", level: 65 }
   ],
 
   experience: [
